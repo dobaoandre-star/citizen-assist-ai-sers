@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "categoria": "Acesso digital",
+    "titulo": "Criar conta gov.br",
+    "palavras_chave": [
+      "criar conta",
+      "conta gov br",
+      "cadastro gov br"
+    ],
+    "resposta": "Crie a conta pelo portal ou aplicativo gov.br e siga a identificação no ambiente oficial. A mesma conta dá acesso a vários serviços públicos.",
+    "documentos": [
+      "CPF e informações solicitadas pelo próprio gov.br"
+    ],
+    "onde": "Portal ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Acesso digital",
+    "titulo": "Recuperar senha gov.br",
+    "palavras_chave": [
+      "esqueci minha senha",
+      "recuperar senha",
+      "senha gov br"
+    ],
+    "resposta": "Na entrada da conta, escolha a recuperação de senha. O gov.br apresenta métodos disponíveis, como reconhecimento facial, bancos, e-mail ou celular. Nunca envie códigos ao assistente.",
+    "documentos": [
+      "Acesso ao método de recuperação oferecido na sua conta"
+    ],
+    "onde": "Página oficial de recuperação gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Acesso digital",
+    "titulo": "Entender níveis da conta gov.br",
+    "palavras_chave": [
+      "nivel da conta",
+      "conta prata",
+      "conta ouro"
+    ],
+    "resposta": "Os serviços podem exigir níveis diferentes de segurança. Uma conta básica não libera todos os serviços; confira no gov.br o nível exigido e as formas de validação disponíveis.",
+    "documentos": [
+      "Conta gov.br; requisitos variam conforme a validação"
+    ],
+    "onde": "Portal ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Obter Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps digital",
+      "tirar carteira"
+    ],
+    "resposta": "Acesse o serviço oficial da Carteira de Trabalho Digital pelo aplicativo ou pela web. É necessário ter CPF e conta autenticada gov.br.",
+    "documentos": [
+      "CPF",
+      "Conta autenticada gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou serviço web oficial",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Consultar contratos de trabalho",
+    "palavras_chave": [
+      "consultar contratos",
+      "ver contratos",
+      "meus contratos"
+    ],
+    "resposta": "As anotações do trabalho podem ser acompanhadas pela Carteira de Trabalho Digital no aplicativo ou na internet. Se você possui uma carteira física antiga, conserve-a como comprovação.",
+    "documentos": [
+      "Conta gov.br para acessar a Carteira de Trabalho Digital"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou web",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Buscar vagas no Emprega Brasil",
+    "palavras_chave": [
+      "buscar emprego",
+      "buscar vagas",
+      "emprega brasil",
+      "sine"
+    ],
+    "resposta": "Use o Portal Emprega Brasil para procurar vagas conforme seu perfil profissional. O portal também permite acessar informações da Carteira de Trabalho Digital.",
+    "documentos": [
+      "Conta gov.br para acesso ao portal",
+      "Informações profissionais preenchidas somente no canal oficial"
+    ],
+    "onde": "Portal Emprega Brasil — Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Saber se a Carteira de Trabalho tem custo",
+    "palavras_chave": [
+    "carteira gratuita",
+    "custo da carteira",
+    "pagar carteira",
+    "quanto custa",
+    "quanto custa a carteira de trabalho"
+  ],
+    "resposta": "A Carteira de Trabalho não tem custo para o trabalhador. Use os canais oficiais para obter ou acessar o documento.",
+    "documentos": [
+      "CPF e conta gov.br para o acesso digital"
+    ],
+    "onde": "Serviço oficial da Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Documentos pessoais",
+    "titulo": "Inscrever no CPF pela primeira vez",
+    "palavras_chave": [
+      "primeiro cpf",
+      "inscrever no cpf",
+      "tirar cpf"
+    ],
+    "resposta": "Solicite a inscrição pelos canais da Receita Federal. Brasileiros e estrangeiros têm canais próprios. Confira a documentação aplicável à sua situação na página oficial antes de enviar a solicitação.",
+    "documentos": [
+      "Documento de identificação; confira a lista específica para idade, nacionalidade e canal na fonte"
+    ],
+    "onde": "Página de inscrição da Receita Federal; canais online ou atendimento indicado",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Documentos pessoais",
+    "titulo": "Consultar situação cadastral do CPF",
+    "palavras_chave": [
+      "consultar cpf",
+      "situacao do cpf",
+      "situacao cadastral"
+    ],
+    "resposta": "A Receita Federal permite consultar a situação cadastral e emitir o respectivo comprovante. Informe seus dados apenas no sistema oficial.",
+    "documentos": [
+      "Dados solicitados no formulário oficial da Receita Federal"
+    ],
+    "onde": "Serviço Consultar CPF da Receita Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Documentos pessoais",
+    "titulo": "Atualizar cadastro e CPF suspenso",
+    "palavras_chave": [
+      "atualizar cpf",
+      "cpf suspenso",
+      "alterar cpf"
+    ],
+    "resposta": "CPF suspenso pode indicar cadastro incorreto ou incompleto. Use o serviço de atualização. Quem possui CIN deve observar a orientação sobre o órgão de identificação civil; contato, endereço e regularização cadastral têm exceções descritas na fonte.",
+    "documentos": [
+      "Documento oficial de identificação com foto",
+      "Documentos adicionais conforme o caso e o canal"
+    ],
+    "onde": "Receita Federal ou órgão de identificação civil, conforme a situação",
+    "fonte": "https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 11,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Consultar informações de benefícios no Emprega Brasil",
+    "palavras_chave": [
+      "consultar beneficios",
+      "consultar abono",
+      "acompanhar seguro"
+    ],
+    "resposta": "O Portal Emprega Brasil oferece consulta a informações do abono salarial e à situação do requerimento de seguro-desemprego. Consultar não significa ter direito ao benefício; verifique seu caso no canal oficial.",
+    "documentos": [
+      "Conta gov.br para acesso ao portal"
+    ],
+    "onde": "Portal Emprega Brasil — Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-16"
+  }
+]

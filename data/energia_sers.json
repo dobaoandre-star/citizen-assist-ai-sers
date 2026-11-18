@@ -1,0 +1,21 @@
+{
+  "cenario": {
+    "pontos": 4,
+    "horas_dia": 5,
+    "dias": 30,
+    "w_fluorescente": 15,
+    "w_led": 9,
+    "fluxo_lm": 800,
+    "tarifa": 1,
+    "investimento_led": 40,
+    "solar_kwp": 0.15,
+    "irradiacao": 4.434,
+    "desempenho": 0.75,
+    "coincidencia": 0.4,
+    "investimento_solar": 3000
+  },
+  "origens": {
+    "irradiacao": "INPE, Atlas Brasileiro de Energia Solar, 2ª edição (2017), GLOBAL_HORIZONTAL, registro ID 5622, LON -46.6490 e LAT -23.6005. ANNUAL = 4434 Wh/m²/dia.",
+    "demais": "Premissas ilustrativas para uma residência em São Paulo. Potências e fluxo são hipóteses de seleção de lâmpadas, não etiquetas de modelos específicos. Preços, desempenho, tarifa e coincidência não foram medidos nem cotados."
+  }
+}
